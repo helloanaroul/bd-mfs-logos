@@ -11,6 +11,9 @@ Bangladesh Mobile Financial Service (MFS) logo collection for developers. Includ
 - MCash
 - OK Wallet
 - Tap
+- Cellfin
+- bKash Marcent
+- Pathao Pay
 
 ## Usage
 
